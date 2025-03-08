@@ -5,3 +5,5 @@ _
 /contracts/local-entropy-reduction-tracking.clar,e/6/e623b281e253ae71f0406d230d680499973ae857
 ^
 .tests/local-entropy-reduction-tracking.test.ts,d/b/dbdbf066093a7094bfd7dbd258ded64eef3d2a98
+X
+(contracts/energy-state-optimization.clar,f/b/fbb8315ac7c04c9d3b4353f661b08c6e8cecc2d9
