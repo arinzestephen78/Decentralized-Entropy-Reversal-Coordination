@@ -11,3 +11,7 @@ W
 'tests/energy-state-optimization.test.ts,3/e/3e3796a147991008ea2023cf41975822a68204ab
 ^
 .contracts/universal-heat-death-prevention.clar,9/1/9170a915dc6da0a3e8156ba118de4c9800830753
+>
+.gitattributes,2/4/24139dae656713ba861751fb2c2ac38839349a7a
+]
+-tests/universal-heat-death-prevention.test.ts,a/7/a76fa55af26a6f6a8ec83edb53732bea804fe688
